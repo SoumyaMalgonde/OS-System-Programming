@@ -3,7 +3,7 @@ Author : Soumya Malgonde
 Aim : Producer-consumer problem solution with counting semaphores
 and mutex.
 
-(Compilation using: gcc filename.cpp -lpthread)
+(Compilation using: g++ filename.cpp -lpthread)
 */
 
 #include <stdio.h>
