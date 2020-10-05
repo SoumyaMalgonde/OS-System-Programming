@@ -85,7 +85,7 @@ void eat()
 	sleep(5);
 }
 
-// reader's thread function
+// philosopher's thread function
 void *philosopher_on_table(void *arg)
 {
 	int i = *(int *)arg;
